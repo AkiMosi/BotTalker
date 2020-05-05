@@ -1,5 +1,5 @@
 
-##BotTalker: Generating Encrypted, Customizable C&C Traces
+# BotTalker: Generating Encrypted, Customizable C&C Traces
 
 1. Introduction:
 	- BotTalker emulates the actions a bot would take to encrypt communication and produces traces that look like they come from real botnets. BotTalker is able to convert non-encrypted botnet traces into encrypted ones. It enables customization along three dimensions: (a) selection of real encryption algorithm, (b) flow or packet level conversion, SSL emulation and (c) IP address substitution. **More details can be found in our published paper - [BotTalker] (http://www.cs.colostate.edu/~hanzhang/papers/BotTalker.pdf).**
